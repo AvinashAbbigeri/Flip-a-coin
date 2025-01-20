@@ -20,5 +20,5 @@ Challenges Solved:
 - Created smooth animations for the coin flip using CSS.
 
 Outcome:
-Provides an interactive and fun experience for users.
-Helps users keep track of the number of heads and tails over multiple flips.
+- Provides an interactive and fun experience for users.
+- Helps users keep track of the number of heads and tails over multiple flips.
