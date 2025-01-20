@@ -1,7 +1,8 @@
 Flip a Coin
 
 Brief Overview:
-This is a simple coin-flipping game built with HTML, CSS, and JavaScript. The user can flip the coin and track the number of heads and tails, with a reset option to clear the count.
+- This is a simple coin-flipping game built with HTML, CSS, and JavaScript. The user can flip the coin and track the number of heads and tails, 
+  with a reset option to clear the count.
 
 Key Features:
 -	Random coin flipping animation.
